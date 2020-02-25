@@ -107,7 +107,7 @@ nginx: configuration file /usr/local/openresty/nginx/conf/nginx.conf test is suc
 
 直接访问站点（此处为虚拟机的ip地址），应该能看到Openresty的欢迎页。
 
-![image](https://raw.githubusercontent.com/starnightcyber/Web-Security/master/waf/ngix_lua_waf/welcome.png)
+![image](https://github.com/starnightcyber/Web-Security/blob/master/waf/ngix_lua_waf/welcome.png)
 
 ### 攻击测试
 
@@ -117,7 +117,7 @@ nginx: configuration file /usr/local/openresty/nginx/conf/nginx.conf test is suc
 
 提示，检测到攻击行为，请求被拦截，说明可以正常工作。
 
-![image](https://raw.githubusercontent.com/starnightcyber/Web-Security/master/waf/ngix_lua_waf/attack.png)
+![image](https://github.com/starnightcyber/Web-Security/blob/master/waf/ngix_lua_waf/attack1.png)
 
 ##  ngx_lua_waf配置文件说明
 
