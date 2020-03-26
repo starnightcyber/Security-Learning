@@ -2,6 +2,11 @@
 
 本篇介绍在CentOS7.6上安装、测试使用ngx_lua_waf + openresty。
 
+[ngx_lua_waf](https://github.com/loveshell/ngx_lua_waf)是一个基于lua-nginx-module(openresty)的web应用防火墙:
+
+https://github.com/loveshell/ngx_lua_waf
+
+
 ## Preface
 
 ```
